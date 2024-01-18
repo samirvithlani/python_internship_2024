@@ -1,0 +1,21 @@
+Programming language:
+Scripting language: Scripting is a subset of programming languages. 
+These are the languages that are interpreted by another program at runtime.
+ Scripting languages are often used to build web applications and are also used in many games. 
+ Examples: JavaScript, Python, Ruby, PHP, Perl, Lua, etc.
+
+
+ statically typed language:
+
+    we have to provide the type of data when we declare a variable.
+    eg:c,c++,java
+    int a = 10;
+
+ daynamic typed language:
+    
+    we don't need to specify the type of data when we declare a variable.
+    eg; javascript,python
+    no1 = 10;
+    x = "ram"
+
+variable: variable are the containers which is used to store data...    
