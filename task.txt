@@ -1,1 +1,8 @@
 1)get 3 nos from users and find average of it...
+
+# swap two numbers
+no1 = 10
+no2 = 20
+
+#using third variable
+#without using third variable
