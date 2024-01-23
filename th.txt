@@ -74,3 +74,17 @@ else:
     //statements
     //statements    
 
+
+and or
+
+condition 1 and condition 2
+
+T      T      T
+F      -      F
+T      F      F
+
+condition 1 or condition 2
+
+T      -       t
+F      T       t
+F      F       f

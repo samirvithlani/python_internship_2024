@@ -6,3 +6,13 @@ no2 = 20
 
 #using third variable
 #without using third variable
+
+task1:
+
+1) get mothly salary from user eg : 20000 
+
+1)if user salary is greater than 200000 then print "you are eligible for 2 wheeler loan"
+2)if user salary is greater than 400000 then print "you are eligible for 4 wheeler loan"
+3)if user salary is greater than 800000 then print "you are eligible for home loan"
+4)if user salary is greater than 1000000 then print "you are eligible for business loan"
+
