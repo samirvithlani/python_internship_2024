@@ -46,3 +46,31 @@ operators are the symbols which is used to perform some operations on operands.
       in,not in
 7)identity operator:
       is,is not      
+
+
+
+decision making statements:
+condition :- True --> False -->
+if else
+loops
+match case
+
+if(condition){
+    //statements
+}
+else{
+    //statements
+}
+
+
+if condition:
+    //statements
+    //statements
+    //statements
+    //statements
+else:
+    //statements
+    //statements
+    //statements
+    //statements    
+
