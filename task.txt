@@ -16,3 +16,19 @@ task1:
 3)if user salary is greater than 800000 then print "you are eligible for home loan"
 4)if user salary is greater than 1000000 then print "you are eligible for business loan"
 
+
+print table of entered num 
+5
+5*1 = 5
+5*2 = 10
+find factorial of a number 5 = 5*4*3*2*1 = 120
+print fibonaci series 0 1 1 2 3 5 8 13 21
+
+
+
+task:
+find no is prime or not
+find no is armstrong or not[dynamic]
+find no is palindrome or not   121
+
+

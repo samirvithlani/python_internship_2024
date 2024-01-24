@@ -88,3 +88,18 @@ condition 1 or condition 2
 T      -       t
 F      T       t
 F      F       f
+
+
+
+loops:
+
+entry controlled loop:
+    while loop
+    for loop
+exit controlled loop:
+    do while loop    
+
+for(int i=1;i<=5;i++){
+    //st
+    //st
+}
