@@ -1,0 +1,9 @@
+mutable  : modification possible
+immutable : modification impossible
+
+
+string is an iterable object
+string is subscriptable object
+
+string  [str]
+dynamic array
