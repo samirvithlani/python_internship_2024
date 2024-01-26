@@ -1,0 +1,3 @@
+same as list
+data of tuple is tuple\
+tuple is immutable

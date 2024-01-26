@@ -1,4 +1,4 @@
-subjects = ["C", "C++", "Java", "Python", "Android","Python"]
+subjects = ["C", "C++", "Java", "Python", "Android","Python","j","malayalam"]
 
 
 #ind = subjects.index("Python")

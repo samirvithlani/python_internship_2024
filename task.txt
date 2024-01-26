@@ -32,3 +32,19 @@ find no is armstrong or not[dynamic]
 find no is palindrome or not   121
 
 
+task:
+create score board for cricket
+1)find total score
+2)find average score
+3)find highest score of player
+4)find lowest score of player
+
+
+task:
+
+1)remove duplicate elements from list [dont use set]
+2)find second largest element from list
+3)remove all even numbers from list
+
+
+
