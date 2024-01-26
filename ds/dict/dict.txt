@@ -1,0 +1,7 @@
+1)dict stors data in key value pair {key:value} {rank1:"sachin",rank2:"dhoni"}
+2)dict is mutable
+4)dict allows duplicate values
+5)dict allows duplicate keys but not duplicate values
+6)dict is represented in curly braces {}
+
+'''
