@@ -1,0 +1,10 @@
+!)list is collection og hetrogenous elements
+2)list is mutable
+3)list is ordered [index]
+4)list is represented by []
+5)data type of list is list
+6)list is iterable
+7)list is subscriptable
+8)list is dynamic
+
+
