@@ -103,3 +103,20 @@ for(int i=1;i<=5;i++){
     //st
     //st
 }
+
+
+functions:function is collection of statements
+
+void test
+int test
+
+def keyword is used to define a function in python.
+pre defined functions:
+uDF user defined functions:
+
+
+4 type :
+1)no argument no return type
+2)no argument with return type
+3)with argument no return type
+4)with argument with return type
