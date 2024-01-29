@@ -1,0 +1,43 @@
+encapsulation
+    :class,object,constructor..
+inheritance:
+child class can access parent class properties this process is called inheritance
+    :single,multiple,multilevel,hierarchical
+
+polymorphism
+:many forms
+    :method overloading
+    :method overriding
+    :
+abstract :
+
+
+class:class is a design or blueprint of an object
+     class is group of data members and member functions
+     class is logical entity
+
+
+object : it is instance of class
+
+
+class             obj
+Vehicle            car,bike,bus
+fruit              mango,apple,orange
+school             student,teacher,principal
+
+
+in python class is keyword used to create class
+
+constructor:constructor is special method in python
+            constructor is used to initialize instance variables
+            in python constructor is __init__(self)
+            constructor automatically invoke when creating object
+            
+
+            type of constructor:
+            default constructor
+            parameterized constructor
+            
+
+    
+
